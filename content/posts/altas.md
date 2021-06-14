@@ -1,12 +1,12 @@
 ---
-title: "Alta's Cafe"
+title: "Alta's Cafe ☕️"
 date: 2021-06-13T20:51:30-05:00
 draft: false
 tags: ["coffee"]
 author: "Soy"
 ---
 
-A fresh view of Town Lake. If you make it early you can watch the local crew teams practice. 
+A fresh view of Town Lake. If you make it early you can watch the local crew teams practice.
 
 #### Our personal favorites:
 

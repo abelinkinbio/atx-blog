@@ -1,5 +1,5 @@
 ---
-title: "Mozart's Coffee Roasters"
+title: "Mozart's Coffee Roasters ☕️"
 date: 2021-06-13T18:14:14-05:00
 draft: false
 tags: ["coffee", "top-10"]

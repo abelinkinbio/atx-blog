@@ -8,7 +8,10 @@ defaultTheme = "auto"
 
 [params.homeInfoParams]
 Title = "Howdy y'all 🤘"
-Content = "Welcome to our little, private blog on how to have some fun in Austin, Texas."
+Content = """
+Welcome to our little, private blog
+on how to have some fun in Austin, Texas.
+"""
 
 [[params.socialIcons]]
 name = "instagram"
