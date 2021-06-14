@@ -1,4 +1,41 @@
 baseURL = "http://localfrijol.com/"
 languageCode = "en-us"
-title = "ATX"
+title = "Soy + Abe"
 theme = "hugo-PaperMod"
+
+[params]
+defaultTheme = "auto"
+
+[params.homeInfoParams]
+Title = "Howdy y'all 🤘"
+Content = "Welcome to our little, private blog on how to have some fun in Austin, Texas."
+
+[[params.socialIcons]]
+name = "instagram"
+
+[[params.socialIcons]]
+url = "instagram.com/sawyerseverance"
+
+[[params.socialIcons]]
+name = "twitter"
+
+[[params.socialIcons]]
+url = "twitter.com/mrlincolnlogs"
+
+[[menu.main]]
+identifier = "top-10"
+name = "top 10"
+url = "tags/top-10/"
+weight = 10
+
+[[menu.main]]
+identifier = "tags"
+name = "tags"
+url = "/tags/"
+weight = 20
+
+[[menu.main]]
+identifier = "about"
+name = "about"
+url = "/about/"
+weight = 30
