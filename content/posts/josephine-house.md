@@ -1,5 +1,5 @@
 ---
-title: "Josephine House"
+title: "Josephine House 🥃"
 date: 2021-06-14T21:41:58-05:00
 draft: false
 tags: ["cocktails", "west"]

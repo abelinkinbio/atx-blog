@@ -1,8 +1,8 @@
 ---
-title: "Lutie’s Garden Restaurant"
+title: "Lutie’s Garden Restaurant 🥃"
 date: 2021-06-14T21:39:38-05:00
 draft: false
-tags: ["cocktails", "farm-to-table" "top-10"]
+tags: ["cocktails", "farm-to-table", "top-10"]
 author: "Soy"
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: "Eberly"
+title: "Eberly 🥃"
 date: 2021-06-14T21:39:03-05:00
 draft: false
-tags: ["cocktails", "farm-to-table" "top-10"]
+tags: ["cocktails", "farm-to-table", "top-10"]
 author: "Abe"
 ---
 
