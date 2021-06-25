@@ -11,7 +11,7 @@ Famous on insta for it's pink margarita and Wednesday happy hour. Don't forget t
 #### Our personal favorites:
 
 1. Tostadas de atun
-2. Pescado del dio
+2. Steak Fajitas
 3. Grizz mizz
 
 [Menu](https://grizzeldas.com/menus/) 📖  |  [Location](https://g.page/Grizzeldas?share) 🌎

@@ -14,4 +14,4 @@ Brought to you by way of New York, literally. The whole bar was shipped here pie
 2. Pan Seared Halibut
 3. Braised Short Rib
 
-[Menu](https://eberlyaustin.com/dinner) 📖  |  [Location](https://g.page/JuiceLand-DeepEddy?share) 🌎
+[Menu](https://eberlyaustin.com/dinner) 📖  |  [Location](https://goo.gl/maps/3zDXmssPZX9GxQLBA) 🌎
