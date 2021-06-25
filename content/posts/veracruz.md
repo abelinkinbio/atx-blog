@@ -2,7 +2,7 @@
 title: "Veracruz 🌮"
 date: 2021-06-25T16:27:18-05:00
 draft: false
-tags: ["street-tacos"]
+tags: ["street-tacos" , "top-ten"]
 author: "Soy"
 ---
 

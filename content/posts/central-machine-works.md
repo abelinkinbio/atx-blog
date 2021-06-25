@@ -2,7 +2,7 @@
 title: "Central Machine Works 🍺"
 date: 2021-06-25T16:25:14-05:00
 draft: false
-tags: ["beer-garden"]
+tags: ["beer-garden" , "top-ten"]
 author: "Abe"
 ---
 
